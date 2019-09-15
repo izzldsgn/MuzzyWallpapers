@@ -1,0 +1,30 @@
+{
+	"Wallpapers": [{
+			"name": "Muzzy Wall 1",
+			"author": "BGSD.XYZ",
+			"url": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall1.png",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall1_thumbnails.png",
+			"downloadable": true,
+			"dimensions": "2560 x 1500 px",
+			"copyright": "BGSD.XYZ"
+		},
+		{
+			"name": "Muzzy Wall 2",
+			"author": "BGSD.XYZ",
+			"url": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall1.png",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall1_thumbnails.png",
+			"downloadable": true,
+			"dimensions": "2560 x 1500 px",
+			"copyright": "BGSD.XYZ"
+		},
+		{
+			"name": "Muzzy Wall 3",
+			"author": "BGSD.XYZ",
+			"url": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall1.png",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall1_thumbnails.png",
+			"downloadable": true,
+			"dimensions": "2560 x 1500 px",
+			"copyright": "BGSD.XYZ"
+		}
+    ]
+}
