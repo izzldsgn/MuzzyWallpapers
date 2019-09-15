@@ -2,29 +2,47 @@
 	"Wallpapers": [{
 			"name": "Muzzy Wall 1",
 			"author": "BGSD.XYZ",
-			"url": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall1.png",
-			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall1_thumbnails.png",
+			"url": "https://raw.githubusercontent.com/izzldsgn/MuzzyWallpapers/master/muzzy_wall1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/MuzzyWallpapers/master/muzzy_wall1_thumbnails.jpg",
 			"downloadable": true,
-			"dimensions": "2560 x 1500 px",
+			"dimensions": "2732 x 1374 px",
 			"copyright": "BGSD.XYZ"
 		},
 		{
 			"name": "Muzzy Wall 2",
 			"author": "BGSD.XYZ",
-			"url": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall1.png",
-			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall1_thumbnails.png",
+			"url": "https://raw.githubusercontent.com/izzldsgn/MuzzyWallpapers/master/muzzy_wall2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/MuzzyWallpapers/master/muzzy_wall2_thumbnails.jpg",
 			"downloadable": true,
-			"dimensions": "2560 x 1500 px",
+			"dimensions": "1920 x 966 px",
 			"copyright": "BGSD.XYZ"
 		},
 		{
 			"name": "Muzzy Wall 3",
 			"author": "BGSD.XYZ",
-			"url": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall1.png",
-			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/GruvyWallpapers/master/gruvy_wall1_thumbnails.png",
+			"url": "https://raw.githubusercontent.com/izzldsgn/MuzzyWallpapers/master/muzzy_wall3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/MuzzyWallpapers/master/muzzy_wall3_thumbnails.jpg",
 			"downloadable": true,
-			"dimensions": "2560 x 1500 px",
+			"dimensions": "1440 x 1080 px",
 			"copyright": "BGSD.XYZ"
-		}
+		},
+		{
+			"name": "Muzzy Wall 4",
+			"author": "BGSD.XYZ",
+			"url": "https://raw.githubusercontent.com/izzldsgn/MuzzyWallpapers/master/muzzy_wall4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/MuzzyWallpapers/master/muzzy_wall4_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2340 x 4160 px",
+			"copyright": "BGSD.XYZ"
+		},
+		{
+			"name": "Muzzy Wall 5",
+			"author": "BGSD.XYZ",
+			"url": "https://raw.githubusercontent.com/izzldsgn/MuzzyWallpapers/master/muzzy_wall5.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/MuzzyWallpapers/master/muzzy_wall5_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "3840 x 5760 px",
+			"copyright": "BGSD.XYZ"
+		}		       
     ]
 }
